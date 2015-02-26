@@ -1,0 +1,48 @@
+{
+"Project": {
+"Id": "healthcrowd",
+"Name": "healthCrowd",
+"Description": "Health costing crowd sourcing app"
+},
+"Tasks": [
+{
+"Name": "costEstimate",
+"Description": "enter cost",
+"CurrentState": "waiting",
+"AssignmentCriteria": {
+"SubmittedData": {
+"categorize": {
+"ad-content": "usable"
+},
+"price": {}
+}
+},
+"CompletionCriteria": {
+"Total": 99999,
+"Matching": 0
+}
+}
+],
+"Assets": [
+{
+	"Name": "Coartem 20/120 box",
+	"Url": "https://github.com/swisstph/healthcrowd/ui/img/coartem.jpg"
+	"Metadata" : {
+		"Description": "Coartem box",
+		"Substance" : "artemether/lumefantrine",
+		"Quantity per pill" : "20mg/120mg",
+		"Number" : 24
+	}
+}
+{
+	"Name": "Coartem 20/120 card",
+	"Url": "https://github.com/swisstph/healthcrowd/ui/img/coartem.jpg"
+	"Metadata" : {
+		"Description": "Coartem card",
+		"Substance" : "artemether/lumefantrine",
+		"Quantity per pill" : "20mg/120mg",
+		"Number" : 24
+	}
+}
+]
+}
