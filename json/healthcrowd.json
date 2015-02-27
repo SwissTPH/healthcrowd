@@ -29,7 +29,7 @@
     "Assets": [
         {
             "Name": "Coartem 20/120 box",
-            "Url": "https://github.com/swisstph/healthcrowd/ui/img/coartem_box.jpg",
+            "Url": "https://raw.githubusercontent.com/SwissTPH/healthcrowd/master/ui/img/coartem_box.jpg",
             "Metadata" : {
                 "Description": "Coartem box",
                 "Substance" : "artemether/lumefantrine",
@@ -39,7 +39,7 @@
         },
         {
             "Name": "Coartem 20/120 card",
-            "Url": "https://github.com/swisstph/healthcrowd/ui/img/coartem_card.jpg",
+            "Url": "https://raw.githubusercontent.com/SwissTPH/healthcrowd/master/ui/img/coartem_card.jpg",
             "Metadata" : {
                 "Description": "Coartem card",
                 "Substance" : "artemether/lumefantrine",
